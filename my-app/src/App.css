@@ -23,6 +23,7 @@ body{
   flex-direction: column;
   align-items: center;
   color: black;
+
   top:4em;
 }
 .heading-background{
@@ -45,6 +46,7 @@ font-size: 1em;
 font-weight: 400;  
 padding: 2em;
 margin-right: 50em;
+font-weight: 600;
 }
 nav{
   position:fixed;
@@ -86,6 +88,33 @@ li .link:hover{
   -ms-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
 }
+
+.contact-content button{
+  background: red;
+  border: 0px;
+  padding: 1em 3em;
+  margin-bottom: 2.5em;
+  transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+}
+
+.contact-content .icon {
+  padding-left: 1em;
+}
+
+.contact-content button:hover{
+  opacity: 0.8;
+}
+
+.contact-content button a{
+  font-family: 'Open Sans', sans-serif;
+  color:white;
+  text-decoration: none;
+}
+
 .header-title button:hover{
   opacity: 0.8;
 }
@@ -357,39 +386,49 @@ height: 30em;
 
 
 body{
-    font-size: 20px;
+    font-size: 12px;
   }
   header h1{
-    font-size: 3em;
-    margin-right: 25em;
+    font-size: 1em;
+    margin-right: 15em;
   }
 
 
   nav{
-  left:60em;
+  left:105em;
   top:12em;
   z-index: 100;
 }
 nav li{
-   font-size: 3em;
+   font-size: 1.5em;
 
 }
-.header-title{
-  font-size: 5em;
-  top:1em;
-  left:1em;
+
+.heading-background{
+  left: 1.5em;
+  top: .1em;
 }
-.about{position: relative;
-      display: flex;
-      top:-20em;
+
+header h1{
+  font-size: 3em;
+}
+.header-title{
+  font-size: 4em;
+  top:3em;
+  left:-1em;
+}
+.about{
+  position: relative;
+  display: flex;
+  top:8em;
 }
 .about-content{
   left:10em;
 }
 .about-content p{
-  font-size: 3.5em;
+  font-size: 2em;
   text-align: left;
-  width: 25em;
+  width: 45em;
 }
 .about img{
   margin-left: 1em;
@@ -414,20 +453,20 @@ height: 32em;
   left:8em;
 }
 .contact h1{
-  font-size: 8em;
+  font-size: 4em;
 }
 .contact .email{
-  font-size: 5em;
+  font-size: 2em;
 }
 
 .contact li a{
-  font-size: 4em;
+  font-size: 2em;
   padding: 1em;
 }
 .footer{
   top:4em;
   padding: 1em;
-  font-size: 4em;
+  font-size: 2em;
 }
 
 
