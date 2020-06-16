@@ -108,6 +108,8 @@ li .link:hover{
 .about-content{
   position: relative;
   left:15em;
+  margin-right: 10%;
+  margin-top: 5%
 }
 .about-content h1{
   font-family: 'Montserrat', sans-serif;
