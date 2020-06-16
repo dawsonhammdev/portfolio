@@ -174,7 +174,7 @@ li .link:hover{
 
 .project img{
 width: 30em;  
-height: 30em;
+height: 10em;
 }
 .contact{
   position: relative;
@@ -411,6 +411,7 @@ nav li{
 
 header h1{
   font-size: 3em;
+  margin-right: 20em;
 }
 .header-title{
   font-size: 4em;
@@ -444,8 +445,8 @@ header h1{
   grid-template-columns: 1fr 1fr 1fr;
 }
 .project img{
-width: 32em;  
-height: 32em;
+width: 30em;  
+height: 10em;
 }
 
 .contact{
