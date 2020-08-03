@@ -2,6 +2,7 @@ import img from "./img/img1.png"
 import img2 from "./img/img2.png"
 import img3 from "./img/img3.png"
 import img4 from "./img/img4.png"
+import aboutimg from "./img/about.jpg"
 
 export default
     {
@@ -19,7 +20,7 @@ export default
         contactEmail:'hammsdesigns@gmail.com',
         // Add Your About Text Here
         abouttext: "I am a husband to my wonderful wife Ashley and a father to my daughter Madalyn. I am also the Youth Pastor at my local church and love to work with students. I play 3 instruments and I am very involved in my community. I love technology and I love to teach.",
-        aboutImage:'https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/14264930_526555494222153_8281955124704308242_n.jpg?_nc_cat=107&_nc_sid=13bebb&_nc_ohc=YTqU8QD6GC0AX-ctQut&_nc_ht=scontent-ort2-2.xx&oh=450df911eedde7ad86a22ad38d9a23c0&oe=5F0D8497',
+        aboutImage: aboutimg,
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
