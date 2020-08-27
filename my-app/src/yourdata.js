@@ -1,7 +1,8 @@
 import img from "./img/img1.png"
 import img2 from "./img/img2.png"
 import img3 from "./img/img3.png"
-import img4 from "./img/img4.png"
+import img4 from "./img/img4.svg"
+import img5 from "./img/img5.svg"
 import aboutimg from "./img/about.jpg"
 
 export default
@@ -48,13 +49,27 @@ export default
                 imageSrc: img3,
                 url: 'https://wunderlist1-bw-ft.github.io/UI/index.html'
             },
-            {
+            { 
                 id: 4,//DO NOT CHANGE THIS (Please)😅
-                title: 'Oxygen',
-                service: 'React App Development and Design',
+                title: 'Russellville Unitet Pentecostal Church',
+                service: 'Wordpress/Divi',
                 imageSrc: img4,
-                url: 'https://plant-htwoo-55bp0l5so.now.sh/'
-           }
+                url: 'https://russellvilleupc.com'
+            },
+            { 
+                id: 5,//DO NOT CHANGE THIS (Please)😅
+                title: 'Reliant Healthcare Staffing',
+                service: 'Wordpress/Divi',
+                imageSrc: img5,
+                url: 'https://relianthealthcarestaffing.com'
+            },
+        //     {
+        //         id: 4,//DO NOT CHANGE THIS (Please)😅
+        //         title: 'Oxygen',
+        //         service: 'React App Development and Design',
+        //         imageSrc: img4,
+        //         url: 'https://plant-htwoo-55bp0l5so.now.sh/'
+        //    }
 
                     /*
 
