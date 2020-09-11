@@ -242,9 +242,11 @@ nav{
   top:1em;
   left:1em;
 }
-.about{position: relative;
-      display: flex;
-      top:-30em;
+.about{
+  position: relative;
+  display: flex;
+  
+  top:-30em;
 }
 .about img{
   width: 20%;
