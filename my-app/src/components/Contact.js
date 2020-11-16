@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
 import data from '../yourdata';
-import resume from '../img/123.pdf'
+import resume from '../img/dawson_hamm_resume.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDownload } from '@fortawesome/free-solid-svg-icons'
 

@@ -1,8 +1,10 @@
 import img from "./img/img1.png"
 import img2 from "./img/img2.png"
 import img3 from "./img/img3.png"
-import img4 from "./img/img4.svg"
-import img5 from "./img/img5.svg"
+import img4 from "./img/img4.png"
+import img5 from "./img/img5.png"
+import img6 from "./img/img6.png"
+import img7 from "./img/img7.png"
 import aboutimg from "./img/about.jpg"
 
 export default
@@ -26,6 +28,20 @@ export default
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
        projects:[
+        { 
+            id: 6,//DO NOT CHANGE THIS (Please)😅
+            title: 'Huddle',
+            service: 'React App',
+            imageSrc: img6,
+            url: 'https://huddle.sirchit.com/dashboard/index.html?action=register'
+        },
+        { 
+            id: 7,//DO NOT CHANGE THIS (Please)😅
+            title: 'Story Squad',
+            service: 'React App',
+            imageSrc: img7,
+            url: 'https://c.storysquad.dev/login'
+        },
            {
             id: 1,//DO NOT CHANGE THIS (Please)😅
             title:'QuizBee', //Project Title - Add Your Project Title Here
@@ -51,18 +67,19 @@ export default
             },
             { 
                 id: 4,//DO NOT CHANGE THIS (Please)😅
-                title: 'Russellville Unitet Pentecostal Church',
+                title: 'Russellville United Pentecostal Church',
                 service: 'Wordpress/Divi',
-                imageSrc: img4,
+                imageSrc: img5,
                 url: 'https://russellvilleupc.com'
             },
             { 
                 id: 5,//DO NOT CHANGE THIS (Please)😅
                 title: 'Reliant Healthcare Staffing',
                 service: 'Wordpress/Divi',
-                imageSrc: img5,
+                imageSrc: img4,
                 url: 'https://relianthealthcarestaffing.com'
             },
+            
         //     {
         //         id: 4,//DO NOT CHANGE THIS (Please)😅
         //         title: 'Oxygen',
