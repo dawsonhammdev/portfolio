@@ -15,7 +15,7 @@ export default
         headerTagline: [//Line 1 For Header
                         'Hi 👋 You found me! I am Dawson.',
                         //Line 2 For Header
-                        'Software Engineer ',
+                        'Project Manager | Software Engineer ',
                         //Line 3 For Header
                         'from Kentucky'
     ],
