@@ -74,7 +74,7 @@ export default
                 url: 'https://russellvilleupc.com'
             },
             { 
-                id: 5,//DO NOT CHANGE THIS (Please)😅
+                id: 5,//DO NOT CHANGE THIS (Please)😅 //c
                 title: 'Reliant Healthcare Staffing',
                 service: 'Wordpress/Divi',
                 imageSrc: img4,
@@ -84,7 +84,7 @@ export default
             {
                 id: 6,//DO NOT CHANGE THIS (Please)😅
                 title: 'Crypto Search',
-                service: 'React App Development and Design Using Axios',
+                service: 'React Using Axios',
                 imageSrc: img8,
                 url: 'https://cryptosearch2.vercel.app/'
            }
