@@ -84,7 +84,7 @@ export default
             {
                 id: 6,//DO NOT CHANGE THIS (Please)😅
                 title: 'Crypto Search',
-                service: 'React App w/ Axios',
+                service: 'React App w/ Axios and Consuming Data Form an API',
                 imageSrc: img8,
                 url: 'https://cryptosearch2.vercel.app/'
            }
