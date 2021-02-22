@@ -5,6 +5,7 @@ import img4 from "./img/img4.png"
 import img5 from "./img/img5.png"
 import img6 from "./img/img6.png"
 import img7 from "./img/img7.png"
+import img8 from "./img/crypto.png"
 import aboutimg from "./img/about.jpg"
 
 export default
@@ -80,13 +81,13 @@ export default
                 url: 'https://relianthealthcarestaffing.com'
             },
             
-        //     {
-        //         id: 4,//DO NOT CHANGE THIS (Please)😅
-        //         title: 'Oxygen',
-        //         service: 'React App Development and Design',
-        //         imageSrc: img4,
-        //         url: 'https://plant-htwoo-55bp0l5so.now.sh/'
-        //    }
+            {
+                id: 6,//DO NOT CHANGE THIS (Please)😅
+                title: 'Crypto Search',
+                service: 'React App Development and Design Using Axios',
+                imageSrc: img8,
+                url: 'https://cryptosearch2.vercel.app/'
+           }
 
                     /*
 
