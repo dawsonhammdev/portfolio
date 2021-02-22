@@ -33,7 +33,7 @@ class Contact extends Component {
         </div>
         </Fade>
 
-            <span className='footer'>dawsonHamm 2020</span>
+            <span className='footer'>dawsonHamm 2021</span>
         </div>);
     }
 }
